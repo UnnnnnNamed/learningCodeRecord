@@ -69,9 +69,14 @@ private slots:
 
     void on_equalSign_clicked();
 
+    void on_plusOrMinus_clicked();
+
+    void on_factorial_clicked();
+
 private:
     Ui::widget *ui;
     QString input;
+    QString result;
     QString formula;
     int leftRemain=0;
     bool hasPoint = false;
@@ -81,7 +86,7 @@ private:
 
     void enterNumber(QString num);
 
-    void enterOperator(QString opera, QString operaFor);
+    void enterOperator(QString opera,QString operaFor);
 };
 
 
