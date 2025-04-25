@@ -1,5 +1,0 @@
-"D:\SOFTWARE\CLion\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/SOFTWARE/CLion/CLion 2022.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\A_Learn\cppCoding\Qt\Calculator -B D:\A_Learn\cppCoding\Qt\Calculator\cmake-build-debug
--- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
--- Configuring done
--- Generating done
--- Build files have been written to: D:/A_Learn/cppCoding/Qt/Calculator/cmake-build-debug

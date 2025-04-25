@@ -1,5 +1,0 @@
-D:/A_Learn/cppCoding/Qt/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
-D:/A_Learn/cppCoding/Qt/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/A_Learn/cppCoding/Qt/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/A_Learn/cppCoding/Qt/Calculator/cmake-build-debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
-D:/A_Learn/cppCoding/Qt/Calculator/cmake-build-debug/CMakeFiles/Calculator_autogen.dir
